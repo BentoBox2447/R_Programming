@@ -1,1 +1,8 @@
+# R history files
+.Rhistory
+
+# R session data files
+.RData
+
+# Other
 .DS_Store
