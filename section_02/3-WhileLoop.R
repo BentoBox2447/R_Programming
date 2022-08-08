@@ -5,9 +5,9 @@ while(TRUE){
 
 #click ESC on keyboard to stop running loops
 
-#counter loop
+#counter while loop
 counter <-1
 while(counter < 12){
-  print(counter)
+  print(counter) #when printing inside a loop you need printß
   counter <- counter + 1 #R does NOT use +=
 }
